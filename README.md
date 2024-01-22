@@ -1,5 +1,5 @@
-# Heart-Rate-Monitor
-NO2 datalogger.
+# NO2 datalogger
+
 
 
 ![](https://github.com/salim97/NO2-datalogger/blob/main/rundll32_Gh5wXTps3F.png)
